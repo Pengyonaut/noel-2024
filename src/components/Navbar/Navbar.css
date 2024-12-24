@@ -1,0 +1,22 @@
+
+  .page-container.animating {
+    height: 100vh!important;
+    width: 100vw;
+    z-index: 999999;
+
+  }
+
+
+  
+  .logo-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+
+  .navbar-logo {
+    width: 4rem;
+    height: auto;
+  }
+  
