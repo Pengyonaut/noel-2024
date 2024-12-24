@@ -10,7 +10,7 @@ import "./custom.scss"
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <BrowserRouter>
+    <BrowserRouter basename={"noel-2024"}>
       <App />
     </BrowserRouter>
   </React.StrictMode>
