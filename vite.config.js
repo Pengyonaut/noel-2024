@@ -3,9 +3,5 @@ import react from '@vitejs/plugin-react';
 
 export default defineConfig({
   plugins: [react()],
-  base: '/', // Assurez-vous que la base est bien "/"
-  build: {
-    outDir: 'dist', // Les fichiers générés seront dans "dist"
-    emptyOutDir: true,
-  },
+  base: '/noel-2024/' // Remplacez "votre-repo" par le nom de votre dépôt
 });
