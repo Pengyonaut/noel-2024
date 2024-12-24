@@ -10,7 +10,7 @@ export default function Home() {
       name:"Enigme 1 : Retour vers le passé",
       icon: "history",
       description: "Affronte un vestige du passé pour trouver la première clé.",
-      url: "/noel-2024/dans-le-passey",
+      url: "/dans-le-passey",
       remind: "a"
     },
     {
